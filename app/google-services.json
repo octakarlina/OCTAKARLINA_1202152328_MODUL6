@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174962827385",
+    "firebase_url": "https://octakarlina1202152328-modul6.firebaseio.com",
+    "project_id": "octakarlina1202152328-modul6",
+    "storage_bucket": "octakarlina1202152328-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174962827385:android:4c6e7bbebc5bfc5d",
+        "android_client_info": {
+          "package_name": "id.odt.OCTAKARLINA_1202152328_MODUL6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174962827385-9p4g2ipa844u80e19vl5ngrga5dmouvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.odt.OCTAKARLINA_1202152328_MODUL6",
+            "certificate_hash": "1e45a90090c1db805a489505284767e4c1590fb1"
+          }
+        },
+        {
+          "client_id": "174962827385-pcdmgvjqi4grjmcvd1ji0h6fdm5kmk1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsOKdO3bdvpZBX_iIQSYlV2pE4Ub-hR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174962827385-pcdmgvjqi4grjmcvd1ji0h6fdm5kmk1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
